@@ -24,3 +24,6 @@ mvn spring-boot:run
 
 ## Diagrama de patas de gallo:
 <img width="674" height="465" alt="image" src="https://github.com/user-attachments/assets/9f03c08e-990d-4369-bdee-0f9d47819fee" />
+
+## Springboot Dashboard:
+<img width="1277" height="742" alt="image" src="https://github.com/user-attachments/assets/3aae8313-e91b-4531-9723-36a1328804f9" />

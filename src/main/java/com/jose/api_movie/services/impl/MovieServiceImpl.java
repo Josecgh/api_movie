@@ -4,7 +4,6 @@ import com.jose.api_movie.exceptions.ResourceNotFoundException;
 import com.jose.api_movie.models.Movie;
 import com.jose.api_movie.repositories.MovieRepository;
 import com.jose.api_movie.services.MovieService;
-import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
 import java.util.List;

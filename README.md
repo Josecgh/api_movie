@@ -21,3 +21,6 @@ mvn spring-boot:run
 
 ## Diagrama Chen:
 <img width="526" height="434" alt="image" src="https://github.com/user-attachments/assets/d2b93d48-e9be-4d3b-a72b-6e79003c1ee8" />
+
+## Diagrama de patas de gallo:
+<img width="674" height="465" alt="image" src="https://github.com/user-attachments/assets/9f03c08e-990d-4369-bdee-0f9d47819fee" />

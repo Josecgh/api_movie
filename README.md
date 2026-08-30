@@ -13,3 +13,9 @@ cd movies-api
 
 # Ejecutar proyecto
 mvn spring-boot:run
+
+## Interfaz de la Base de datos:
+<img width="641" height="580" alt="image" src="https://github.com/user-attachments/assets/dc717d25-5980-4dce-bc3d-6e39f09bd58e" />
+
+## Diagrama Chen:
+<img width="526" height="434" alt="image" src="https://github.com/user-attachments/assets/d2b93d48-e9be-4d3b-a72b-6e79003c1ee8" />
